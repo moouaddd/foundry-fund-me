@@ -1,0 +1,12 @@
+FundMeTest:testAddsFunderToAnArray() (gas: 100160)
+FundMeTest:testCheaperMultipleFunders() (gas: 85433)
+FundMeTest:testFundFail() (gas: 23017)
+FundMeTest:testFundSuccess() (gas: 99818)
+FundMeTest:testIsOwner() (gas: 8481)
+FundMeTest:testMinimumUsd() (gas: 8263)
+FundMeTest:testMultipleFunders() (gas: 85490)
+FundMeTest:testOnlyOwnerWithdraw() (gas: 99995)
+FundMeTest:testVersionPrice() (gas: 13572)
+FundMeTest:testWithdrawSingleFunder() (gas: 85123)
+
+85433 85490
